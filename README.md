@@ -1,5 +1,6 @@
 :memo: My-Work-Day-Scheduler :memo:
 # View my Website Here
+https://lukiangelxd.github.io/My-Work-Day-Scheduler/
 
 ## Background 
 I designed and developed a user-friendly daily planner with the intention of facilitating event scheduling within the framework of a typical 9-to-5 standard business day. At the uppermost section of the page, I ensured that the current date and day of the week are prominently displayed for the user's convenience.
