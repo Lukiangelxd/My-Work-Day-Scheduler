@@ -1,4 +1,5 @@
 :memo: My-Work-Day-Scheduler :memo:
+# View my Website Here
 
 ## Background 
 I designed and developed a user-friendly daily planner with the intention of facilitating event scheduling within the framework of a typical 9-to-5 standard business day. At the uppermost section of the page, I ensured that the current date and day of the week are prominently displayed for the user's convenience.
@@ -17,5 +18,5 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
 ## Usage
-Video of depolyed website
+The example video of the depolyed website
 [Work Day Scheduler.webm](https://github.com/Lukiangelxd/My-Work-Day-Scheduler/assets/133689246/d7e5279c-087b-4ffc-a280-deb2331b5f41)
