@@ -18,3 +18,4 @@ SO THAT I can manage my time effectively
 
 ## Usage
 Video of depolyed website
+[Work Day Scheduler.webm](https://github.com/Lukiangelxd/My-Work-Day-Scheduler/assets/133689246/d7e5279c-087b-4ffc-a280-deb2331b5f41)
